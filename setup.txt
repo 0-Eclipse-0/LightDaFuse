@@ -1,0 +1,3 @@
+1.) Put the file 'lightdafuse.php' on your webserver.
+2.) Modify the urls in 'modules/bomb.rb' to point to 'lightdafuse.php' on your webserver.
+3.) You are done and are ready to start bombing scammer's email addresses.
